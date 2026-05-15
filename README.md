@@ -3,7 +3,7 @@
 <!--
 **rperdomo-research/rperdomo-research** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on my master in Electrical and Computer Engineering!
+- 🔭 I’m currently working on my masters in Electrical and Computer Engineering!
 - 🌱 I’m currently learning Project Management, ROS, Docker, Digital Audio Signal Processing, Computer Vision, and Digital Controls!
 - ✍️ Talk to me about adaptive systems, humanoid robots, and embodied AI!
 
